@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "generatedAt": "2025-09-20T15:26:34.521Z",
+    "totalMessages": 0,
+    "config": {
+      "searchLocation": "Madrid, Spain",
+      "businessTypes": [
+        "restaurant",
+        "hair_care",
+        "beauty_salon"
+      ],
+      "maxResults": 50
+    }
+  },
+  "stats": {
+    "businessesScraped": 50,
+    "businessesEnriched": 0,
+    "messagesGenerated": 0,
+    "messagesSent": 0,
+    "startTime": "2025-09-20T15:23:45.195Z",
+    "endTime": null
+  },
+  "messages": []
+}

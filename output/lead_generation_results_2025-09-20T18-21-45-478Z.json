@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "generatedAt": "2025-09-20T18:21:45.478Z",
+    "totalMessages": 0,
+    "config": {
+      "searchLocation": "santa cruz de tenerife",
+      "businessTypes": [
+        "comics"
+      ],
+      "maxResults": 50
+    }
+  },
+  "stats": {
+    "businessesScraped": 1,
+    "businessesEnriched": 0,
+    "messagesGenerated": 0,
+    "messagesSent": 0,
+    "startTime": "2025-09-20T18:20:58.888Z",
+    "endTime": null
+  },
+  "messages": []
+}
